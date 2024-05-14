@@ -2,7 +2,7 @@
 
 ## Grupa 2:
 ### Zad. 1 
-W skrypcie create.sql przygotuj zestaw komend SQL, które tworzą tabele i relacje między tabelami w bazie danych
+W skrypcie create.sql przygotuj zestaw komend SQL, które w oparciu o diegram ERD z pliku kolokwium.pdf, tworzą tabele i relacje między tabelami w bazie danych. 
 ### Zad. 2 
 Przygotuj skrypt insert.sql w którym będą komendy SQL do uzepełnienia tabel danymi z plików people_data.csv oraz life_events.csv
 ### Zad. 3 
